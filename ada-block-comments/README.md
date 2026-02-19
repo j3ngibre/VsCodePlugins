@@ -37,7 +37,7 @@ After the extension runs (automatically or via command), the block will be trans
 
     The extension will be installed and ready to use.
 
-    Source:
+    Source: https://github.com/j3ngibre/VsCodePlugins/tree/main/releases
 
 
 **Enjoy!**
